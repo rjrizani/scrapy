@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fungsi handel change 1`] = `
+<div
+  className="App-body"
+>
+  <header>
+    Kalkulator Biaya Kursus
+  </header>
+   
+  <br />
+  <fieldset>
+    <legend>
+      Jumlah Mata Pelajaran
+      :
+    </legend>
+    <input
+      onChange={[Function]}
+      value=""
+    />
+  </fieldset>
+  <fieldset>
+    <legend>
+      Total Biaya (Rupiah)
+      :
+    </legend>
+    <input
+      onChange={[Function]}
+      value=""
+    />
+  </fieldset>
+  <p>
+     Biaya kursus dihitung dengan biaya Rp.150.000,00 per 3 kali pertemuan untuk 1 mata pelajaran
+  </p>
+</div>
+`;
+
+exports[`fungsi handel change 2`] = `
+<div
+  className="App-body"
+>
+  <header>
+    Kalkulator Biaya Kursus
+  </header>
+   
+  <br />
+  <fieldset>
+    <legend>
+      Jumlah Mata Pelajaran
+      :
+    </legend>
+    <input
+      onChange={[Function]}
+    />
+  </fieldset>
+  <fieldset>
+    <legend>
+      Total Biaya (Rupiah)
+      :
+    </legend>
+    <input
+      onChange={[Function]}
+      value=""
+    />
+  </fieldset>
+  <p>
+     Biaya kursus dihitung dengan biaya Rp.150.000,00 per 3 kali pertemuan untuk 1 mata pelajaran
+  </p>
+</div>
+`;
+
+exports[`fungsi handel change 3`] = `
+<div
+  className="App-body"
+>
+  <header>
+    Kalkulator Biaya Kursus
+  </header>
+   
+  <br />
+  <fieldset>
+    <legend>
+      Jumlah Mata Pelajaran
+      :
+    </legend>
+    <input
+      onChange={[Function]}
+      value=""
+    />
+  </fieldset>
+  <fieldset>
+    <legend>
+      Total Biaya (Rupiah)
+      :
+    </legend>
+    <input
+      onChange={[Function]}
+    />
+  </fieldset>
+  <p>
+     Biaya kursus dihitung dengan biaya Rp.150.000,00 per 3 kali pertemuan untuk 1 mata pelajaran
+  </p>
+</div>
+`;

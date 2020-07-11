@@ -1,0 +1,77 @@
+.App {
+  background-color: #282c34;
+  text-align: left;
+}
+
+a {
+  color: #FFF;
+}
+a:hover {
+   color: #00F
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  }
+
+/* Style the header */
+.header {
+  background-color: #61dafb;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  padding-left: 20px;
+  text-align: center;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+    padding: 25px;
+    
+  }
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #61dafb;
+  padding-left: 40px;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+
